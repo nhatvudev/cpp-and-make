@@ -1,0 +1,2 @@
+COMPILER=g++
+REMOVE=rm
