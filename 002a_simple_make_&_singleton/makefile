@@ -9,4 +9,4 @@ myclasses.o: myclasses.cpp myclasses.h
 	g++ -c myclasses.cpp
 
 clean:
-	rm helloworld myclasses.o
+	rm helloworld myclasses.o helloworld.o
